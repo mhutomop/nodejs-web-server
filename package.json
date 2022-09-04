@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "Learn to create a back-end application for beginner. Dicoding training: Belajar Membuat Aplikasi Back-End untuk Pemula (Membangun Web Service menggunakan Node.js).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhutomop/nodejs-web-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhutomop/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/mhutomop/nodejs-web-server#readme"
+}
